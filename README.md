@@ -40,6 +40,7 @@ A real-time stochastic autopilot designed to simulate protein concentration dyna
 *   **Agency:** Currently collaborating with a specialized group of Biophysics experts to drive innovation[cite: 2].
 
 *"Forging the tools that decode life."*
-![Abdalrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![Abdalrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdoSayed-sci&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoSayed-sci&layout=compact&theme=tokyonight)
 ![Mobile Legends](https://img.shields.io/badge/Maining-Jungle/Gold_Lane-blue?style=flat-square&logo=game-controller)
